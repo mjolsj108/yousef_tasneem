@@ -1,5 +1,5 @@
 // Zieldatum: 04. August 2026 um 18:00 Uhr
-const targetDate = new Date('August 4, 2026 18:00:00').getTime();
+const targetDate = new Date('August 4, 2026 19:00:00').getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
